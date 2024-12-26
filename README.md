@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/toibaonguyen" target="_blank">
-    <img src="https://www.gifcen.com/wp-content/uploads/2022/04/naruto-gif-19.gif" alt="Naruto GIF" width="50%" />
+  <a href="https://github.com/toibaonguyen" target="_blank">
+    <img src="https://github.com/toibaonguyen/toibaonguyen/blob/main/banner.gif" alt="Naruto GIF" width="100%" />
   </a>
 </p>
 
