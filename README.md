@@ -1,4 +1,9 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/04/naruto-gif-19.gif)](https://www.linkedin.com/in/toibaonguyen)
+<p align="center">
+  <a href="https://www.linkedin.com/in/toibaonguyen" target="_blank">
+    <img src="https://www.gifcen.com/wp-content/uploads/2022/04/naruto-gif-19.gif" alt="Naruto GIF" width="50%" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Toibaonguyen</h1>
 <h3 align="center">A passionate software enginneer from Vietnam</h3>
 <img align="right" alt="Leo" width=400 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/108fe05f-8fda-4e23-a367-a82912313633/d1f67l2-ea023b5b-cda5-47d3-a5c6-0971818af466.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwOGZlMDVmLThmZGEtNGUyMy1hMzY3LWE4MjkxMjMxMzYzM1wvZDFmNjdsMi1lYTAyM2I1Yi1jZGE1LTQ3ZDMtYTVjNi0wOTcxODE4YWY0NjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nGjrmt_PSs1qcv07aesjn4R75maykv0SDdvtviCNZ6E">
@@ -8,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML - oriented Projects**
 
-- 🤝 I’m looking for help with **AI/ML, Backend, System Design, Cloud.s**
+- 🤝 I’m looking for help with **AI/ML, Backend, System Design, Cloud**
 
 - 💬 Ask me about **Java, Spring, ReactJs, Python**
 
