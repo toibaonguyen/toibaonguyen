@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Toibaonguyen</h1>
-<h3 align="center">A passionate software enginneer from Vietnam</h3>
+<h3 align="center">A passionate Software Engineer from Vietnam</h3>
 <img align="right" alt="Leo" width=400 src="https://github.com/toibaonguyen/toibaonguyen/blob/main/right-side-banner.gif">
 
 - 🔭 I’m currently working at **FPT Software**
