@@ -1,12 +1,15 @@
 <p align="center">
   <a href="https://github.com/toibaonguyen" target="_blank">
-    <img src="https://github.com/toibaonguyen/toibaonguyen/blob/main/banner.gif" alt="Naruto GIF" width="100%" />
+    <img src="https://github.com/toibaonguyen/toibaonguyen/blob/main/banner.gif" alt="Naruto" width="100%" />
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Toibaonguyen</h1>
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
-<img align="right" alt="Leo" width=400 src="https://github.com/toibaonguyen/toibaonguyen/blob/main/right-side-banner.gif">
+
+<a href="https://en.wikipedia.org/wiki/Leo_(astrology)" target="_blank">
+  <img align="right" alt="Leo" width=400 src="https://github.com/toibaonguyen/toibaonguyen/blob/main/leo.gif" alt="Leo">
+</a>
 
 - 🔭 I’m currently working at **FPT Software**
 
