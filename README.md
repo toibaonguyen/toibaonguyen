@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working at **FPT Software**
 
-- 🌱 I’m currently learning **Java, Javascript, Python**
+- 🌱 I’m currently learning **Java, Javascript**
 
-- 👯 I’m looking to collaborate on **E2E AI/ML - oriented Projects**
+- 👯 I’m looking to collaborate on **New Development Projects**
 
-- 🤝 I’m looking for help with **AI/ML, DevOps, System Design, Cloud**
+- 🤝 I’m looking for help with **Backend, Frontend, Full Stack, System Design, Cloud**
 
-- 💬 Ask me about **Java, Javascript, Spring, ReactJs, Python**
+- 💬 Ask me about **Java, Javascript, Spring, ReactJs**
 
 - ⚡ Fact about me **I'm trying to be better day by day 😤😤😤**
 
