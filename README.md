@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working at **FPT Software**
 
-- 🌱 I’m currently learning **Go, Javascript**
+- 🌱 I’m currently learning **Java, Javascript**
 
 - 👯 I’m looking to collaborate on **New Development Projects**
 
