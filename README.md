@@ -17,8 +17,6 @@
 
 - 🤝 I’m looking for help with **Backend, Frontend, Full Stack, System Design, Infra**
 
-- 💬 Ask me about **Go, Java, Javascript, Spring, ReactJs**
-
 - ⚡ Fact about me **I'm trying to be better day by day 😤😤😤**
 
 <h3 align="left">Connect with me:</h3>
