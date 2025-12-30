@@ -13,11 +13,9 @@
 
 - 🔭 I’m currently working at **FPT Software**
 
-- 🌱 I’m currently learning **Java, Javascript**
+- 👯 I’m looking to collaborate on **E2E World-Class Products**
 
-- 👯 I’m looking to collaborate on **New Development Projects**
-
-- 🤝 I’m looking for help with **Backend, Frontend, Full Stack, System Design, Cloud**
+- 🤝 I’m looking for help with **Backend, Frontend, Full Stack, System Design, Infra**
 
 - 💬 Ask me about **Go, Java, Javascript, Spring, ReactJs**
 
